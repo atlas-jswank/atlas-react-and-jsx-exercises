@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": "1", "text": "Finish homework", "done": true },
+    { "id": "2", "text": "Clean kitchen", "done": false },
+    { "id": "3", "text": "Mow lawn", "done": false }
+  ]
+}
